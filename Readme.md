@@ -6,3 +6,4 @@
 
 ## Second Phase of deployment - ""This is wonderful"
 ## Adding copywright notice to simple.html
+## Added some text how first_coder feels
